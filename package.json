@@ -1,0 +1,21 @@
+{
+  "name": "use-smart-session",
+  "version": "1.0.0",
+  "description": "React hook to detect inactivity and session expiration.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["react", "hook", "session", "idle", "typescript"],
+  "author": "Hadbi Mohamed",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/react": "^18.0.0"
+  }
+}
