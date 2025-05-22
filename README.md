@@ -10,7 +10,7 @@ A lightweight and customizable React hook to detect user inactivity, show sessio
 - 🔄 Refreshes token on activity (optional)
 - ⚙️ Fully customizable
 
-## 📦 Installation
+## 📦 Installation (soon...)
 
 ```bash
 npm install use-smart-session
